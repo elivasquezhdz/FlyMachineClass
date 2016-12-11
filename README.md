@@ -8,7 +8,7 @@ https://drive.google.com/file/d/0B9TqKLs79cNgNkdlU1N1MmV0WjQ/view?usp=sharing
 
 Donwload the file and copy it in the same directory for the rest of the files.
 To use it type:
-python FlyClass.py "imageName.jpg"
+python3 FlyClass.py "imageName.jpg"
 
 Where "imageName.jpg" is the name of the file image to classify.
 It will print the results as:
