@@ -12,8 +12,9 @@ python3 FlyClass.py "imageName.jpg"
 
 Where "imageName.jpg" is the name of the file image to classify.
 It will print the results as:
+
 Predictions:
-drone       airplane
+drone   airplane
 XXXXX       XXXXXX
 ----------------------
 And will save a csv file as imageName.jpg.csv with the predictions.
